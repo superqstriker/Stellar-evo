@@ -1,0 +1,7 @@
+{
+  "name": "Stellar Drift: Evolution",
+  "description": "An evolved flappy-style galactic adventure. Collect coins, unlock 12 evolutionary starships, and evolve your vessel in-game. Features voice-enabled AI Nikunj and reactive environments.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
